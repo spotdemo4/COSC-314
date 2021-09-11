@@ -21,7 +21,7 @@ def getXor(p1, p2):
 
 #Conditional statement
 def getImplies(p1, p2):
-    return p1 != "T" or p2 == "T"
+    return p1 == "F" or p2 == "T"
 
 #Biconditional statement
 def getIff(p1, p2):
