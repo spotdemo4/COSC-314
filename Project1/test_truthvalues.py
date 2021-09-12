@@ -19,3 +19,6 @@ class TestTruthValues(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
+    
+    ariel's touch
